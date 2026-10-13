@@ -26,6 +26,8 @@ A curated list of awesome geo tools, software, demos, maps and data. Inspired by
 
 ##Geo Demos and Maps 
 
+* [KoreAves – South Korean Bird Evidence Atlas](https://koreaves.com/gis/) - Interactive regional explorer of source-linked bird occurrence observations (English/Korean). Coverage limitations are documented; sightings are not population abundance or definitive range maps.
+
 * [Spinning Globe](https://www.jasondavies.com/maps/rotate/) - Demo of a spinning globe in the browser, using d3.js.
 * [Lidar DSM map of England and Wales](https://houseprices.io/lab/lidar/map) - Nice visualisation of all the UK Environment Agencies open Lidar DSM data. 
 * [Polarview](http://www.polarview.aq/antarctic) - Sea ice information, data and SAR imagery for the Antarctic. 
